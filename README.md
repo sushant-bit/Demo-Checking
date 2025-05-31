@@ -1,3 +1,3 @@
 # Demo-Checking
 This is my first git repository. <br>
-Author - Sushant Adhikari
+Author - Sushant Adhikari (future developer)
